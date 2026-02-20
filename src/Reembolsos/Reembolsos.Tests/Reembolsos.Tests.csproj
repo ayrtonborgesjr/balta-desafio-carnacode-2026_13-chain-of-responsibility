@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\Reembolsos.Console\Reembolsos.Console.csproj" />
+    </ItemGroup>
+
 </Project>
