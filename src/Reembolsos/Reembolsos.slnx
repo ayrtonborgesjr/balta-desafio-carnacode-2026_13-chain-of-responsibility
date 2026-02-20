@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Reembolsos.Console/Reembolsos.Console.csproj" />
+  <Project Path="Reembolsos.Tests/Reembolsos.Tests.csproj" />
+</Solution>
